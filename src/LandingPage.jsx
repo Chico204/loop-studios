@@ -8,24 +8,24 @@ import { FaInstagram } from "react-icons/fa";
 
 const creations = [
    {
-    title: "Deep Earth",
-    desktopImage: "public/images/images/desktop/image-deep-earth.jpg",
-    mobileImage: "public/images/images/mobile/image-deep-earth.jpg",
+    title: "DEEP EARTH",
+    desktopImage: "/images/images/desktop/image-deep-earth.jpg",
+    mobileImage: "/images/images/mobile/image-deep-earth.jpg",
   },
    {
-    title: "Night Arcade",
-    desktopImage: "public/images/images/desktop/image-night-arcade.jpg",
-    mobileImage: "public/images/images/mobile/image-night-arcade.jpg",
+    title: "NIGHT ARCADE",
+    desktopImage: "/images/images/desktop/image-night-arcade.jpg",
+    mobileImage: "/images/images/mobile/image-night-arcade.jpg",
   },
    {
-    title: "Soccer Vr",
-    desktopImage: "public/images/images/desktop/image-soccer-team.jpg",
-    mobileImage: "public/images/images/mobile/image-soccer-team.jpg",
+    title: "SOCCER VR",
+    desktopImage: "/images/images/desktop/image-soccer-team.jpg",
+    mobileImage: "/images/images/mobile/image-soccer-team.jpg",
   },
   {
-    title: "The Grid",
-    desktopImage: "public/images/images/desktop/image-grid.jpg",
-    mobileImage: "public/images/images/mobile/image-grid.jpg",
+    title: "THE GRID",
+    desktopImage: "/images/images/desktop/image-grid.jpg",
+    mobileImage: "/images/images/mobile/image-grid.jpg",
   },
  {
     title: "FROM UP ABOVE VR",
