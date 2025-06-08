@@ -29,23 +29,23 @@ const creations = [
   },
  {
     title: "FROM UP ABOVE VR",
-    desktopImage: "public/images/images/desktop/image-from-above.jpg",
-    mobileImage: "public/images/images/mobile/image-from-above.jpg",
+    desktopImage: "/images/images/desktop/image-from-above.jpg",
+    mobileImage: "/images/images/mobile/image-from-above.jpg",
   },
   {
     title: "POCKET BOREALIS",
-    desktopImage: "public/images/images/desktop/image-pocket-borealis.jpg",
-    mobileImage: "public/images/images/mobile/image-pocket-borealis.jpg",
+    desktopImage: "/images/images/desktop/image-pocket-borealis.jpg",
+    mobileImage: "/images/images/mobile/image-pocket-borealis.jpg",
   },
   {
     title: "THE CURIOSITY",
-    desktopImage: "public/images/images/desktop/image-curiosity.jpg",
-    mobileImage: "public/images/images/mobile/image-curiosity.jpg",
+    desktopImage: "/images/images/desktop/image-curiosity.jpg",
+    mobileImage: "/images/images/mobile/image-curiosity.jpg",
   },
   {
     title: "MAKE IT FISHEYE",
-    desktopImage: "public/images/images/desktop/image-fisheye.jpg",
-    mobileImage: "public/images/images/mobile/image-fisheye.jpg",
+    desktopImage: "/images/images/desktop/image-fisheye.jpg",
+    mobileImage: "/images/images/mobile/image-fisheye.jpg",
   },
 ];
 
@@ -139,8 +139,8 @@ export default function LandingPage() {
       {/* VR Leader Section */}
       <section className="px-6 py-16 md:flex md:items-center md:justify-between max-w-6xl mx-auto">
        <ResponsiveImage
-  desktopSrc="public/images/images/desktop/image-interactive.jpg"  
-  mobileSrc="public/images/images/mobile/image-interactive.jpg"    
+  desktopSrc="/images/images/desktop/image-interactive.jpg"  
+  mobileSrc="/images/images/mobile/image-interactive.jpg"    
   alt="User with VR"
   className="w-full md:w-1/2 mb-6 md:mb-0"
 />
