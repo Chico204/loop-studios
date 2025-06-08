@@ -117,13 +117,13 @@ export default function LandingPage() {
    <section className="relative h-[60vh] flex items-center justify-center text-white text-center overflow-hidden">
   {/* Desktop Image */}
   <img
-    src="public/images/images/desktop/image-hero.jpg"
+    src="/images/images/desktop/image-hero.jpg"
     alt="Hero Desktop"
     className="hidden md:block absolute inset-0 w-full h-full object-cover -z-10"
   />
   {/* Mobile Image */}
   <img
-    src="public/images/images/mobile/image-hero.jpg"
+    src="/images/images/mobile/image-hero.jpg"
     alt="Hero Mobile"
     className="block md:hidden absolute inset-0 w-full h-full object-cover  -z-10"
   />
